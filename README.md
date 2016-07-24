@@ -4,9 +4,9 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a través de u
 [Descripción del proyecto]
 
 [Instalación]
--Requisitos
--Versión
--Encargados del proyecto
+- Requisitos
+- Versión
+- Encargados del proyecto
 
 [Uso]
 
@@ -15,3 +15,5 @@ Es un proyecto dedicado al crecimiento de comunidad universitaria a través de u
 [Roadmap]
 
 [Licencia]
+
+[Agradecimientos]
